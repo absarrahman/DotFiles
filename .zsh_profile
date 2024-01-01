@@ -1,0 +1,2 @@
+# Bind tmux sessionizer
+bindkey -s ^f "~/tmux_scripts/tmux-sessionizer\n"
